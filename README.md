@@ -1,15 +1,7 @@
 threeio
 =======
 
-Blender exporter for Three.js (importer not yet ready).
+As of 20141029 `threeio` has been merged with `three.js`.
+https://github.com/mrdoob/three.js/pull/5514
 
-Three.js compatible version: r68
-
-* Geometry format: 3.x
-* Scene format (limited): 4.x
-
-At this time the THREE.ObjectLoader() only supports materials, geometries, and objects. Refer to the ThreeIO.Loader (js/threeio.js) for texture support.
-
-Refer to the [wiki](https://github.com/repsac/threeio/wiki) for more information.
-
-[Releases](https://github.com/repsac/threeio/releases)
+Please refer there for updates, PRs, and issues. This repo will be kept around as a reference only.
